@@ -25,15 +25,6 @@ Data was downloaded in CSV format via the "Map" view export tool for **Mobile Op
 - `requirements.txt` – minimal package list to recreate the environment
 - `README.md` – project overview and setup instructions
 
-## Setup
-
-Clone the repo and install the required packages:
-
-```bash
-git clone https://github.com/yourusername/android_vs_ios_analysis.git
-cd android_vs_ios_analysis
-pip install -r requirements.txt
-python analysis.py
 
 ## Example Outputs
 
